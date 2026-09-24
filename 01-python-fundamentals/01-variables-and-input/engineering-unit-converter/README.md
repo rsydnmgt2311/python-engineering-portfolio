@@ -68,10 +68,3 @@ Invalid input was also tested at the length and mass prompts.
 ## What I learned
 
 I learned how to translate engineering formulas into Python expressions, collect and convert multiple numeric inputs, control decimal precision with f-strings, and handle invalid input using `try` and `except`.
-
-## Possible future improvements
-
-- Allow the user to select a conversion from a menu
-- Support conversions in both directions
-- Move each formula into a reusable function
-- Add automated unit tests

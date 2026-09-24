@@ -75,10 +75,3 @@ Invalid input: enter numeric values
 ## What I learned
 
 I learned how to collect and convert user input, validate multiple conditions, calculate a result, handle invalid input with `try` and `except`, and format monetary output to two decimal places.
-
-## Possible future improvements
-
-- Add overtime-pay calculation
-- Move the calculation into a reusable function
-- Add automated unit tests
-- Use `Decimal` for production-grade currency calculations
