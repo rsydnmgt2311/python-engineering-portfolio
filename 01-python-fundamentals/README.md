@@ -1,6 +1,6 @@
 # 01 - Python Fundamentals
 
-Exercises based primarily on **Programming for Everybody**.
+Exercises that build core Python programming and problem-solving skills.
 
 ## Topics
 

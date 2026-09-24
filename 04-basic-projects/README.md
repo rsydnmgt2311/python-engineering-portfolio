@@ -1,6 +1,6 @@
 # 04 - Basic Projects
 
-Larger programs that combine several skills from the two Coursera courses.
+Larger programs that combine skills developed throughout the earlier exercises.
 
 ## Planned projects
 

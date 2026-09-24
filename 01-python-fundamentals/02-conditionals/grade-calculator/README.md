@@ -4,7 +4,7 @@ A command-line Python program that validates a numeric score and converts it int
 
 ## Purpose
 
-This exercise applies ordered conditional logic and range validation to a grading scenario. It was completed as part of my practice following the **Programming for Everybody** course.
+This exercise applies ordered conditional logic and range validation to a grading scenario.
 
 ## Features
 

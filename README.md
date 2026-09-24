@@ -1,6 +1,6 @@
 # Python Engineering Portfolio
 
-Python exercises and engineering-focused projects developed while studying **Programming for Everybody** and **Python Data Structures** from the Python for Everybody specialization on Coursera.
+Python exercises and engineering-focused projects developed while strengthening my programming, problem-solving, and data-structure skills.
 
 The portfolio documents my progression from Python fundamentals to software, firmware, and embedded-systems problem solving.
 

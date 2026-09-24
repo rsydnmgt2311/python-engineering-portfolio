@@ -4,7 +4,7 @@ A command-line Python program that converts three common engineering measurement
 
 ## Purpose
 
-This exercise applies introductory Python arithmetic and input handling to temperature, length, and mass conversions. It was completed as part of my practice following the **Programming for Everybody** course.
+This exercise applies introductory Python arithmetic and input handling to temperature, length, and mass conversions.
 
 ## Features
 

@@ -4,7 +4,7 @@ A command-line Python program that classifies an equipment temperature and displ
 
 ## Purpose
 
-This exercise applies conditional logic to a simple equipment-monitoring scenario. It was completed as part of my practice following the **Programming for Everybody** course.
+This exercise applies conditional logic to a simple equipment-monitoring scenario.
 
 ## Features
 

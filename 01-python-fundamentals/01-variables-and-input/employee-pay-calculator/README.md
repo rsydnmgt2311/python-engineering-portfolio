@@ -4,7 +4,7 @@ A command-line Python program that calculates an employee's total pay from the n
 
 ## Purpose
 
-This exercise applies introductory Python concepts to a small payroll calculation. It was completed as part of my practice following the **Programming for Everybody** course.
+This exercise applies introductory Python concepts to a small payroll calculation.
 
 ## Features
 
