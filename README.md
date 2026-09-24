@@ -17,7 +17,7 @@ The portfolio documents my progression from Python fundamentals to software, fir
 
 - [x] Employee Pay Calculator
 - [x] Engineering Unit Converter
-- [ ] Equipment Temperature Monitor
+- [x] Equipment Temperature Monitor
 - [ ] Grade Calculator
 - [ ] Number Analyzer
 - [ ] Sensor Reading Analyzer

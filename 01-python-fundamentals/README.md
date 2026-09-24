@@ -16,7 +16,7 @@ Exercises based primarily on **Programming for Everybody**.
 
 - [x] Employee Pay Calculator
 - [x] Engineering Unit Converter
-- [ ] Equipment Temperature Monitor
+- [x] Equipment Temperature Monitor
 - [ ] Grade Calculator
 - [ ] Number Analyzer
 - [ ] Sensor Reading Analyzer
