@@ -15,7 +15,7 @@ Exercises based primarily on **Programming for Everybody**.
 ## Progress
 
 - [x] Employee Pay Calculator
-- [ ] Unit Converter
+- [x] Engineering Unit Converter
 - [ ] Equipment Temperature Monitor
 - [ ] Grade Calculator
 - [ ] Number Analyzer
