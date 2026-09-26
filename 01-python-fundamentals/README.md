@@ -19,7 +19,7 @@ Exercises that build core Python programming and problem-solving skills.
 - [x] Equipment Temperature Monitor
 - [x] Grade Calculator
 - [x] Number Analyzer
-- [ ] Sensor Reading Analyzer
+- [x] Sensor Reading Analyzer
 - [ ] Engineering Conversion Toolkit
 - [ ] Voltage Safety Checker
 - [ ] Text Search Tool

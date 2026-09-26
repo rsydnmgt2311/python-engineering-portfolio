@@ -20,7 +20,7 @@ The portfolio documents my progression from Python fundamentals to software, fir
 - [x] Equipment Temperature Monitor
 - [x] Grade Calculator
 - [x] Number Analyzer
-- [ ] Sensor Reading Analyzer
+- [x] Sensor Reading Analyzer
 - [ ] Engineering Conversion Toolkit
 - [ ] Voltage Safety Checker
 - [ ] Text Search Tool
